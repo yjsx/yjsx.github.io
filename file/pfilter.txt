@@ -1,0 +1,8 @@
+@inproceedings{duan2022pfilter,
+  title={Pfilter: Building persistent maps through feature filtering for fast and accurate lidar-based slam},
+  author={Duan, Yifan and Peng, Jie and Zhang, Yu and Ji, Jianmin and Zhang, Yanyong},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={11087--11093},
+  year={2022},
+  organization={IEEE}
+}

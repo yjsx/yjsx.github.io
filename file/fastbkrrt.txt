@@ -1,0 +1,8 @@
+@inproceedings{peng2021towards,
+  title={Towards an online RRT-based path planning algorithm for Ackermann-steering vehicles},
+  author={Peng, Jie and Chen, Yu’An and Duan, Yifan and Zhang, Yu and Ji, Jianmin and Zhang, Yanyong},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7407--7413},
+  year={2021},
+  organization={IEEE}
+}
