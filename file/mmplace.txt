@@ -1,0 +1,10 @@
+@ARTICLE{10472597,
+  author={Meng, Chengzhen and Duan, Yifan and He, Chenming and Wang, Dequan and Fan, Xiaoran and Zhang, Yanyong},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={mmPlace: Robust Place Recognition With Intermediate Frequency Signal of Low-Cost Single-Chip Millimeter Wave Radar}, 
+  year={2024},
+  volume={9},
+  number={6},
+  pages={4878-4885},
+  keywords={Heating systems;Feature extraction;Estimation;Point cloud compression;Millimeter wave radar;Laser radar;Azimuth;Localization;recognition},
+  doi={10.1109/LRA.2024.3377562}}

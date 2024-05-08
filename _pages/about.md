@@ -50,73 +50,40 @@ My research interest includes:：
 <span class='anchor' id='-publications'></span>
 
 # Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/pfilter.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/paper/farfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Pfilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
--	`Yifan Duan`, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang
-- 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- FARFusion: A Practical Roadside Radar-Camera Fusion System for Far-Range Perception
+-	Yao Li, Yingjie Wang, Chengzhen Meng, `Yifan Duan`, Jianmin Ji, Yu Zhang, Yanyong Zhang
+- IEEE Robotics and Automation Letters (RA-L)
  
-   <a href="https://arxiv.org/abs/2208.14848" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    arxiv
-</a>
-<a href="https://github.com/yjsx/PFilter" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    code
-</a>
-<a href="https://www.youtube.com/watch?v=Kx5lWBIlFLA" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    Video
-</a>
-<a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+   <a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/pfilter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/paper/mmplace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Pfilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
--	`Yifan Duan`, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang
-- 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- mmPlace: Robust Place Recognition With Intermediate Frequency Signal of Low-Cost Single-Chip Millimeter Wave Radar
+-	Chengzhen Meng, `Yifan Duan`, Chenming He, Dequan Wang, Xiaoran Fan, Yanyong Zhang
+- IEEE Robotics and Automation Letters (RA-L)
  
-   <a href="https://arxiv.org/abs/2208.14848" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+   <a href="https://arxiv.org/abs/2403.04703" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     arxiv
 </a>
-<a href="https://github.com/yjsx/PFilter" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+<a href="https://github.com/TC-MCZ/mmPlace" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     code
 </a>
-<a href="https://www.youtube.com/watch?v=Kx5lWBIlFLA" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    Video
-</a>
-<a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+<a href="/file/mmplace.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/pfilter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- Pfilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
--	`Yifan Duan`, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang
-- 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
- 
-   <a href="https://arxiv.org/abs/2208.14848" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    arxiv
-</a>
-<a href="https://github.com/yjsx/PFilter" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    code
-</a>
-<a href="https://www.youtube.com/watch?v=Kx5lWBIlFLA" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    Video
-</a>
-<a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    BibTeX
-</a>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/pfilter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/paper/occvo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving
@@ -129,10 +96,7 @@ My research interest includes:：
 <a href="https://github.com/USTCLH/OCC-VO" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     code
 </a>
-<a href="https://www.youtube.com/watch?v=Kx5lWBIlFLA" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    Video
-</a>
-<a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+<a href="/file/occvo.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
@@ -234,7 +198,7 @@ My research interest includes:：
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<!-- <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
@@ -253,6 +217,18 @@ My research interest includes:：
 # 💻 工作实习
 - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
-- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉
+- *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+<!-- <img style="width: 200px; height: 200px;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
+<div style="width: 300px; height: 200px;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+</div> -->
+
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img style="width: 300px; height: 300px;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
+    </div>
+    <div style="flex: 1; width: 300px; height: 200px;">
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
+    </div>
+</div>

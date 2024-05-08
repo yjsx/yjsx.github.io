@@ -1,0 +1,10 @@
+@ARTICLE{10496834,
+  author={Li, Yao and Wang, Yingjie and Meng, Chengzhen and Duan, Yifan and Ji, Jianmin and Zhang, Yu and Zhang, Yanyong},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={FARFusion: A Practical Roadside Radar-Camera Fusion System for Far-Range Perception}, 
+  year={2024},
+  volume={9},
+  number={6},
+  pages={5433-5440},
+  keywords={Radar;Cameras;Sensors;Radar tracking;Radar imaging;Millimeter wave radar;Sensor fusion;Sensor fusion;object detection;calibration and identification},
+  doi={10.1109/LRA.2024.3387700}}

@@ -1,0 +1,6 @@
+@article{li2023occ,
+  title={OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving},
+  author={Li, Heng and Duan, Yifan and Zhang, Xinran and Liu, Haiyi and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2309.11011},
+  year={2023}
+}
