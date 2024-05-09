@@ -15,8 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# About Me
 <span class='anchor' id='-about-me'></span>
+
+# About Me
 
 
 I am currently pursuing a PhD at the School of Computer Science and Technology, University of Science and Technology of China([USTC](https://https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 also from School of Computer Science and Technology at USTC.
@@ -35,36 +36,40 @@ My research interest includes:：
 # News
 <!-- - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
-+ 2024.03.25: Our paper **FARFusion** is accepted by RA-L！
-+ 2024.03.05: Our paper **mmPlace** is accepted by RA-L！
-+ 2024.01.29: Our paper **OCC-VO** is accepted by ICRA 2024！
++ 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
++ 2024.03.05: Our paper <a href="#-mmplace">**mmPlace**</a> is accepted by RA-L！
++ 2024.01.29: Our paper <a href="#-occvo">**OCC-VO**</a> is accepted by ICRA 2024！
 + 2023.12.02: Our paper **Map++** is accepted by MobiCom '24！
-+ 2023.10.02: Our paper **ScanTrimmer** is accepted by ROBIO 2023！
-+ 2023.07.18: Our dataset paper **USTC FLICAR** is accepted by IJRR！
-+ 2023.03.13: Our paper **$P^3O$** is accepted by ICME 2023！
-+ 2022.06.30: My first paper **PFilter** is accepted by IROS 2022！
-+ 2022.06.30: Our paper **FastBKRRT** is accepted by ICRA 2021！
++ 2023.10.02: Our paper <a href="#-scantrimmer">**ScanTrimmer**</a> is accepted by ROBIO 2023！
++ 2023.07.18: Our dataset paper <a href="#-ustcfly">**USTC FLICAR**</a> is accepted by IJRR！
++ 2023.03.13: Our paper <a href="#-p3o">**$P^3O$**</a> is accepted by ICME 2023！
++ 2022.06.30: My first paper <a href="#-pfilter">**PFilter**</a> is accepted by IROS 2022！
++ 2022.06.30: Our paper <a href="#-fastbkrrt">**FastBKRRT**</a> is accepted by ICRA 2021！
 
 
  
 <span class='anchor' id='-publications'></span>
 
 # Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/paper/farfusion.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-farfusion'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/farfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - FARFusion: A Practical Roadside Radar-Camera Fusion System for Far-Range Perception
 -	Yao Li, Yingjie Wang, Chengzhen Meng, `Yifan Duan`, Jianmin Ji, Yu Zhang, Yanyong Zhang
 - IEEE Robotics and Automation Letters (RA-L)
- 
-   <a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+
+   <a href="https://ieeexplore.ieee.org/document/10496834" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="/file/pfilter.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L</div><img src='images/paper/mmplace.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-mmplace'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/mmplace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - mmPlace: Robust Place Recognition With Intermediate Frequency Signal of Low-Cost Single-Chip Millimeter Wave Radar
@@ -83,7 +88,8 @@ My research interest includes:：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/paper/occvo.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-occvo'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA 2024</div><img src='images/paper/occvo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving
@@ -102,20 +108,25 @@ My research interest includes:：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/paper/scantrimmer.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-scantrimmer'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ROBIO 2022</div><img src='images/paper/scantrimmer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ScanTrimmer: an Online Dynamic Objects Removal Framework in Laser Scan for Robust Localization
 -	Jing Wang, `Yifan Duan`, Jianmin Ji
 - 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)
- 
-   <a href="/file/scantrimmer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+
+   <a href=" https://ieeexplore.ieee.org/document/10354661" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="/file/scantrimmer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJRR</div><img src='images/paper/ustcfly.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-ustcfly'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">IJRR</div><img src='images/paper/ustcfly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - USTC FLICAR: A sensors fusion dataset of LiDAR-inertial-camera for heavy-duty autonomous aerial work robots
@@ -134,7 +145,8 @@ My research interest includes:：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2023</div><img src='images/paper/p3o.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-p3o'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICME 2023</div><img src='images/paper/p3o.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - $P^3O$: Transferring Visual Representations for Reinforcement Learning via Prompting
@@ -151,7 +163,8 @@ My research interest includes:：
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/paper/pfilter.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-pfilter'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2022</div><img src='images/paper/pfilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Pfilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
@@ -173,7 +186,8 @@ My research interest includes:：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/paper/fastbkrrt.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-fastbkrrt'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA 2021</div><img src='images/paper/fastbkrrt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Towards an online RRT-based path planning algorithm for Ackermann-steering vehicles
@@ -226,9 +240,9 @@ My research interest includes:：
 
 <div style="display: flex;">
     <div style="flex: 1;">
-        <img style="width: 300px; height: 300px;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
+        <img style="width: 200px; height: 200px;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
     </div>
-    <div style="flex: 1; width: 300px; height: 200px;">
+    <div style="flex: 1; width: 200px; height: 150px;">
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
     </div>
 </div>
