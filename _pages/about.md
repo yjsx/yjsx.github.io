@@ -167,7 +167,7 @@ My research interest includes:：
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2022</div><img src='images/paper/pfilter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Pfilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
+- PFilter: Building persistent maps through feature filtering for fast and accurate LiDAR-based slam
 -	`Yifan Duan`, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang
 - 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
  
