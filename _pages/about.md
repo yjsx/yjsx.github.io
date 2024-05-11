@@ -24,7 +24,7 @@ I am currently pursuing a PhD at the School of Computer Science and Technology, 
 
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-My research interest includes:：
+My research interest includes:
 - LiDAR-based SLAM
 - Calibration
 - 3D GS and NeRF
