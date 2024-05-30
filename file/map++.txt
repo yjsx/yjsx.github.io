@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3636534.3649386,
+author = {Zhang, Xinran and Zhu, Hanqi and Duan, Yifan and Zhang, Wuyang and Shangguan, Longfei and Zhang, Yu and Ji, Jianmin and Zhang, Yanyong},
+title = {Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing},
+year = {2024},
+isbn = {9798400704895},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3636534.3649386},
+doi = {10.1145/3636534.3649386},
+abstract = {Constructing precise 3D maps is crucial for the development of future map-based systems such as self-driving and navigation. However, generating these maps in complex environments, such as multi-level parking garages or shopping malls, remains a formidable challenge. In this paper, we introduce a participatory sensing approach that delegates map-building tasks to map users, thereby enabling cost-effective and continuous data collection. The proposed method harnesses the collective efforts of users, facilitating the expansion and ongoing update of the maps as the environment evolves.We realized this approach by developing Map++, an efficient system that functions as a plug-and-play extension, supporting participatory map-building based on existing SLAM algorithms. Map++ addresses a plethora of scalability issues in this participatory map-building system by proposing a set of lightweight, application-layer protocols. We evaluated Map++ in four representative settings: an indoor garage, an outdoor plaza, a public SLAM benchmark, and a simulated environment. The results demonstrate that Map++ can reduce traffic volume by approximately 46\% with negligible degradation in mapping accuracy, i.e., less than 0.03m compared to the baseline system. It can support approximately 2\texttimes{} as many concurrent users as the baseline under the same network bandwidth. Additionally, for users who travel on already-mapped trajectories, they can directly utilize the existing maps for localization and save 47\% of the CPU usage.},
+booktitle = {Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+pages = {633–647},
+numpages = {15},
+keywords = {user-participatory, SLAM, map sharing, map expansion},
+location = {<conf-loc>, <city>Washington D.C.</city>, <state>DC</state>, <country>USA</country>, </conf-loc>},
+series = {ACM MobiCom '24}
+}

@@ -39,7 +39,7 @@ My research interest includes:
 + 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
 + 2024.03.05: Our paper <a href="#-mmplace">**mmPlace**</a> is accepted by RA-L！
 + 2024.01.29: Our paper <a href="#-occvo">**OCC-VO**</a> is accepted by ICRA 2024！
-+ 2023.12.02: Our paper **Map++** is accepted by MobiCom '24！
++ 2023.12.02: Our paper <a href="#-Map">**Map++**</a> is accepted by MobiCom '24！
 + 2023.10.02: Our paper <a href="#-scantrimmer">**ScanTrimmer**</a> is accepted by ROBIO 2023！
 + 2023.07.18: Our dataset paper <a href="#-ustcfly">**USTC FLICAR**</a> is accepted by IJRR！
 + 2023.03.13: Our paper <a href="#-p3o">**$P^3O$**</a> is accepted by ICME 2023！
@@ -103,6 +103,23 @@ My research interest includes:
     code
 </a>
 <a href="/file/occvo.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+<span class='anchor' id='-Map'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">MobiCom '24</div><img src='images/paper/map++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Map++: Towards User-Participatory Visual SLAM Systems with Efficient Map Expansion and Sharing
+- Xinran Zhang, Hanqi Zhu, `Yifan Duan`, Wuyang Zhang, Longfei Shangguan, Yu Zhang, Jianmin Ji, Yanyong Zhang
+- ACM MobiCom '24: Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
+ 
+   <a href="https://dl.acm.org/doi/10.1145/3636534.3649386" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="/file/map++.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
 </a>
 </div>
