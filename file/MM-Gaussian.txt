@@ -1,0 +1,6 @@
+@article{wu2024mm,
+  title={MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes},
+  author={Wu, Chenyang and Duan, Yifan and Zhang, Xinran and Sheng, Yu and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2404.04026},
+  year={2024}
+}

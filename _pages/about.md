@@ -34,8 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
-<!-- - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科 -->
++ 2024.06.31: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
 + 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
 + 2024.03.05: Our paper <a href="#-mmplace">**mmPlace**</a> is accepted by RA-L！
 + 2024.01.29: Our paper <a href="#-occvo">**OCC-VO**</a> is accepted by ICRA 2024！
@@ -51,6 +50,51 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+<span class='anchor' id='-CRPlace'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/CRPlace.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition
+-	Shaowei Fu, `Yifan Duan`, Yao Li, Chengzhen Meng, Yingjie Wang, Jianmin Ji, Yanyong Zhang
+- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+   <a href="https://arxiv.org/abs/2403.15183" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/CRPlace.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+<span class='anchor' id='-MM-Gaussian'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/MM-Gaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes  
+-	Chenyang Wu, `Yifan Duan`, Xinran Zhang, Yu Sheng, Jianmin Ji, Yanyong Zhang
+- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+   <a href="https://arxiv.org/abs/2404.04026" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/MM-Gaussian.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+<span class='anchor' id='-LDP'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/LDP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- LDP: A Local Diffusion Planner for Efficient Robot Navigation and Collision Avoidance  
+- Wenhao Yu, Jie Peng, huanyu yang, Junrui Zhang, `Yifan Duan`, Jianmin Ji, Yanyong Zhang
+- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+</div>
+</div>
+
 <span class='anchor' id='-farfusion'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/farfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
