@@ -34,7 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
-+ 2024.06.31: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
++ 2024.06.30: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
 + 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
 + 2024.03.05: Our paper <a href="#-mmplace">**mmPlace**</a> is accepted by RA-L！
 + 2024.01.29: Our paper <a href="#-occvo">**OCC-VO**</a> is accepted by ICRA 2024！
