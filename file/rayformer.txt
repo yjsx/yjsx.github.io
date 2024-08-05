@@ -1,0 +1,6 @@
+@article{chu2024rayformer,
+  title={RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies},
+  author={Chu, Xiaomeng and Deng, Jiajun and You, Guoliang and Duan, Yifan and Li, Yao and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2407.14923},
+  year={2024}
+}

@@ -34,6 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2024.07.16: Our paper <a href="#-rayformer">**RayFormer**</a> is accepted by ACMMM 2024！
 + 2024.06.30: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
 + 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
 + 2024.03.05: Our paper <a href="#-mmplace">**mmPlace**</a> is accepted by RA-L！
@@ -50,6 +51,24 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+<span class='anchor' id='-rayformer'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/rayformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies
+- Xiaomeng Chu, Jiajun Deng, Guoliang You, `Yifan Duan`, Yao Li, Yanyong Zhang
+- ACM MULTIMEDIA 2024 (ACMMM)
+
+   <a href="https://arxiv.org/abs/2407.14923" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/rayformer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+
 <span class='anchor' id='-CRPlace'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2024</div><img src='images/paper/CRPlace.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
