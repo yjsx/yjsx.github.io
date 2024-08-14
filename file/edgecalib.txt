@@ -1,0 +1,6 @@
+@article{li2023edgecalib,
+  title={EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration},
+  author={Li, Xingchen and Duan, Yifan and Wang, Beibei and Ren, Haojie and You, Guoliang and Sheng, Yu and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2310.16629},
+  year={2023}
+}

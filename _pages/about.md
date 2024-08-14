@@ -34,6 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2024.08.14: Our paper <a href="#-edgecalib">**EdgeCalib**</a> is accepted by RA-L！
 + 2024.07.16: Our paper <a href="#-rayformer">**RayFormer**</a> is accepted by ACMMM 2024！
 + 2024.06.30: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
 + 2024.03.25: Our paper <a href="#-farfusion">**FARFusion**</a> is accepted by RA-L！
@@ -51,6 +52,26 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+
+<span class='anchor' id='-edgecalib'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/edgecalib.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration
+- Xingchen Li, `Yifan Duan`, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng,
+Jianmin Ji, Yanyong Zhang
+- IEEE Robotics and Automation Letters (RA-L)
+
+   <a href="https://arxiv.org/abs/2310.16629" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/edgecalib.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+
 <span class='anchor' id='-rayformer'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/rayformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -136,7 +157,7 @@ My research interest includes:
 <div class='paper-box-text' markdown="1">
 
 - mmPlace: Robust Place Recognition With Intermediate Frequency Signal of Low-Cost Single-Chip Millimeter Wave Radar
--	Chengzhen Meng, `Yifan Duan`, Chenming He, Dequan Wang, Xiaoran Fan, Yanyong Zhang
+- Chengzhen Meng, `Yifan Duan`, Chenming He, Dequan Wang, Xiaoran Fan, Yanyong Zhang
 - IEEE Robotics and Automation Letters (RA-L)
  
    <a href="https://arxiv.org/abs/2403.04703" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
