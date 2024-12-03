@@ -34,6 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2024.12.02: Our paper <a href="#-php">**PHP**</a> is accepted by RA-L！
 + 2024.08.14: Our paper <a href="#-edgecalib">**EdgeCalib**</a> is accepted by RA-L！
 + 2024.07.16: Our paper <a href="#-rayformer">**RayFormer**</a> is accepted by ACMMM 2024！
 + 2024.06.30: Three papers <a href="#-CRPlace">**CRPlace**</a>, <a href="#-MM-Gaussian">**MM-Gaussian**</a> and <a href="#-LDP">**LDP**</a> are accepted by IROS 2024！
@@ -53,13 +54,30 @@ My research interest includes:
 
 # Publications
 
+<span class='anchor' id='-php'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/php.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures
+- Guoliang You, Xiaomeng Chu, `Yifan Duan`, Wenyu Zhang, Xingchen Li, Sha Zhang, Yao Li,Jianmin Ji, Yanyong Zhang
+- IEEE Robotics and Automation Letters (RA-L)
+
+   <a href="https://arxiv.org/abs/2407.11644" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/php.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+
 <span class='anchor' id='-edgecalib'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/edgecalib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration
-- Xingchen Li, `Yifan Duan`, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng,
-Jianmin Ji, Yanyong Zhang
+- Xingchen Li, `Yifan Duan`, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang
 - IEEE Robotics and Automation Letters (RA-L)
 
    <a href="https://arxiv.org/abs/2310.16629" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">

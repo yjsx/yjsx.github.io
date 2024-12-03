@@ -1,0 +1,6 @@
+@article{you2024perception,
+  title={Perception Helps Planning: Facilitating Multi-Stage Lane-Level Integration via Double-Edge Structures},
+  author={You, Guoliang and Chu, Xiaomeng and Duan, Yifan and Zhang, Wenyu and Li, Xingchen and Zhang, Sha and Li, Yao and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2407.11644},
+  year={2024}
+}
