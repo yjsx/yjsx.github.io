@@ -34,6 +34,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2024.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
 + 2024.12.02: Our paper <a href="#-php">**PHP**</a> is accepted by RA-L！
 + 2024.08.14: Our paper <a href="#-edgecalib">**EdgeCalib**</a> is accepted by RA-L！
 + 2024.07.16: Our paper <a href="#-rayformer">**RayFormer**</a> is accepted by ACMMM 2024！
@@ -53,6 +54,48 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+<span class='anchor' id='-CELLmap'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/CELLmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation
+- `Yifan Duan`, Xinran Zhang, Yao Li, Guoliang You, Xiaomeng Chu, Jianmin Ji, Yanyong Zhang
+- 2025 IEEE International Conference on Robotics and Automation (ICRA)
+
+   <a href="https://arxiv.org/abs/2409.19597" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/CELLmap.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+<a href="https://github.com/yjsx/CELLmap" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    Code
+</a>
+</div>
+</div>
+
+
+<span class='anchor' id='-MT-PCR'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/MT-PCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap
+- Yilong Wu, `Yifan Duan`, Yuxi Chen, Xinran Zhang, Jianmin Ji, Yanyong Zhang
+- 2025 IEEE International Conference on Robotics and Automation (ICRA)
+
+</div>
+</div>
+
+<span class='anchor' id='-OG-Gaussian'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/OG-Gaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving  
+- Yedong Shen, Xinran Zhang, `Yifan Duan`, Shiqi zhang, Heng Li, Jianmin Ji, Yanyong Zhang 
+- 2025 IEEE International Conference on Robotics and Automation (ICRA)
+</div>
+</div>
+
 
 <span class='anchor' id='-php'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/php.png' alt="sym" width="100%"></div></div>
@@ -150,6 +193,12 @@ My research interest includes:
 - Wenhao Yu, Jie Peng, huanyu yang, Junrui Zhang, `Yifan Duan`, Jianmin Ji, Yanyong Zhang
 - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
+   <a href="https://arxiv.org/abs/2407.01950" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/LDP.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
 </div>
 </div>
 
