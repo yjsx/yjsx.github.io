@@ -28,7 +28,11 @@ My research interest includes:
 - LiDAR-based SLAM
 - Calibration
 - 3D GS and NeRF
-- Occupancy Prediction
+- Manipulation
+
+# Overview
+{% include overview.drawio.html %}
+
 
 
 <span class='anchor' id='-news'></span>
