@@ -1,0 +1,6 @@
+@article{shen2025og,
+  title={OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving},
+  author={Shen, Yedong and Zhang, Xinran and Duan, Yifan and Zhang, Shiqi and Li, Heng and Wu, Yilong and Ji, Jianmin and Zhang, Yanyong},
+  journal={arXiv preprint arXiv:2502.14235},
+  year={2025}
+}

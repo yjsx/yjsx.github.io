@@ -40,6 +40,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2024.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
 + 2024.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
 + 2024.12.02: Our paper <a href="#-php">**PHP**</a> is accepted by RA-L！
 + 2024.08.14: Our paper <a href="#-edgecalib">**EdgeCalib**</a> is accepted by RA-L！
@@ -60,6 +61,24 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+<span class='anchor' id='-RaCFormer'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">CVPR</div><img src='images/paper/racformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion
+- Xiaomeng Chu, Jiajun Deng, Guoliang You, `Yifan Duan`, Houqiang Li, Yanyong Zhang
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)
+
+   <a href="https://arxiv.org/abs/2412.12725" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/RaCFormer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+
 <span class='anchor' id='-CELLmap'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/CELLmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -99,6 +118,13 @@ My research interest includes:
 - OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving  
 - Yedong Shen, Xinran Zhang, `Yifan Duan`, Shiqi zhang, Heng Li, Jianmin Ji, Yanyong Zhang 
 - 2025 IEEE International Conference on Robotics and Automation (ICRA)
+
+   <a href="https://arxiv.org/abs/2502.14235" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/OG-Gaussian.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
 </div>
 </div>
 
