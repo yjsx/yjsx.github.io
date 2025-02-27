@@ -40,8 +40,8 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
-+ 2024.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
-+ 2024.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
++ 2025.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
++ 2025.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
 + 2024.12.02: Our paper <a href="#-php">**PHP**</a> is accepted by RA-L！
 + 2024.08.14: Our paper <a href="#-edgecalib">**EdgeCalib**</a> is accepted by RA-L！
 + 2024.07.16: Our paper <a href="#-rayformer">**RayFormer**</a> is accepted by ACMMM 2024！
