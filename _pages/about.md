@@ -40,6 +40,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2025.04.11: Our paper <a href="#-STDArm">**STDArm**</a> is accepted by RSS 2025!
 + 2025.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
 + 2025.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
 + 2024.12.02: Our paper <a href="#-php">**PHP**</a> is accepted by RA-L！
@@ -61,6 +62,23 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+<span class='anchor' id='-STDArm'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">RSS</div><img src='images/paper/STDArm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation
+- `Yifan Duan*`, Heng Li\*, Yilong Wu\*, Wenhao Yu, xinran zhang, Yedong Shen, Wuyang Zhang, Jianmin Ji, Yanyong Zhang 
+- Robotics: Science and Systems 2025 (RSS)
+
+   <!-- <a href="https://arxiv.org/abs/2412.12725" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/RaCFormer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a> -->
+</div>
+</div>
+
 <span class='anchor' id='-RaCFormer'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">CVPR</div><img src='images/paper/racformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
