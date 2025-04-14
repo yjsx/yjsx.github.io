@@ -70,12 +70,12 @@ My research interest includes:
 - `Yifan Duan*`, Heng Li\*, Yilong Wu\*, Wenhao Yu, xinran zhang, Yedong Shen, Wuyang Zhang, Jianmin Ji, Yanyong Zhang 
 - Robotics: Science and Systems 2025 (RSS)
 
-   <!-- <a href="https://arxiv.org/abs/2412.12725" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    arxiv
+   <a href="https://yjsx.top/stdarm" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    page
 </a>
-<a href="/file/RaCFormer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+<!-- <a href="/file/RaCFormer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
-</a> -->
+</a>  -->
 </div>
 </div>
 
@@ -126,6 +126,9 @@ My research interest includes:
 - Yilong Wu, `Yifan Duan`, Yuxi Chen, Xinran Zhang, Jianmin Ji, Yanyong Zhang
 - 2025 IEEE International Conference on Robotics and Automation (ICRA)
 
+   <a href="https://arxiv.org/abs/2503.12833" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
 </div>
 </div>
 

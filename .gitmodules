@@ -1,0 +1,3 @@
+[submodule "stdarm"]
+	path = stdarm
+	url = https://github.com/yjsx/stdarm-site
