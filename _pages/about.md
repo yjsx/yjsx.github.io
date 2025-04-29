@@ -71,11 +71,14 @@ My research interest includes:
 - Robotics: Science and Systems 2025 (RSS)
 
    <a href="https://yjsx.top/stdarm" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    page
+    Page
 </a>
-<!-- <a href="/file/RaCFormer.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+<a href="/file/stdarm.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     BibTeX
-</a>  -->
+</a> 
+<a href="/stdarm/static/RSS_UAVM_cameraready.pdf" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    Paper
+</a> 
 </div>
 </div>
 
