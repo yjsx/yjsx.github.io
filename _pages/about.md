@@ -33,8 +33,10 @@ My research interest includes:
 <span class='anchor' id='-overview'></span>
 
 # Overview
-{% include overview.drawio.html %}
 
+<div style="text-align: center; margin-top: 20px;">
+    <img src="/images/overview.drawio.png" alt="Overview Image" style="max-width: 100%; height: auto;">
+</div>
 
 
 <span class='anchor' id='-news'></span>
