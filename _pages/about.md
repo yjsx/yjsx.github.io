@@ -40,6 +40,7 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2025.07.05: Our paper <a href="#-CalibWorkflow">**CalibWorkflow**</a> is accepted by ACMMM 2025!
 + 2025.04.11: Our paper <a href="#-STDArm">**STDArm**</a> is accepted by RSS 2025!
 + 2025.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
 + 2025.01.28: Three paper <a href="#-CELLmap">**CELLmap**</a>, <a href="#-MT-PCR">**MT-PCR**</a> and <a href="#-OG-Gaussian">**OG-Gaussian**</a> are accepted by ICRA 2025！
@@ -62,6 +63,20 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+
+<span class='anchor' id='-CalibWorkflow'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/CalibWorkflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- CalibWorkflow: A General MLLM-Guided Workflow for Centimeter-Level Cross-Sensor Calibration
+- Xingchen Li, Wuyang Zhang, Guoliang You, Xiaomeng Chu, Wenhao Yu, `Yifan Duan`, Yuxuan Xiao, Yanyong Zhang 
+- ACM MULTIMEDIA 2025 (ACMMM)
+
+</div>
+</div>
+
+
+
 <span class='anchor' id='-STDArm'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">RSS</div><img src='images/paper/STDArm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
