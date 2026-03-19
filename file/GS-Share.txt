@@ -1,0 +1,8 @@
+@inproceedings{zhang2025gs,
+  title={GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting},
+  author={Zhang, Xinran and Zhu, Hanqi and Duan, Yifan and Zhang, Yanyong},
+  booktitle={Computer Graphics Forum},
+  pages={e70248},
+  year={2025},
+  organization={Wiley Online Library}
+}

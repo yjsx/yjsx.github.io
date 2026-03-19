@@ -1,0 +1,11 @@
+@article{zhang2025pocketmap,
+  title = {PocketMap: An Interaction-centric 3D Map Serving System for Spatial Understanding on Mobile Devices},
+  author = {Zhang, Xinran and Zhang, Wuyang and Zhu, Hanqi and Duan, Yifan and Ji, Jianmin and Zhang, Yanyong},
+  journal = {Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  year = {2025},
+  volume = {9},
+  number = {4},
+  pages = {238:1--238:28},
+  doi = {10.1145/3770680},
+  url = {https://dl.acm.org/doi/10.1145/3770680}
+}

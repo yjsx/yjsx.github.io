@@ -42,6 +42,8 @@ My research interest includes:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2025.12.02: Our paper <a href="#-PocketMap">**PocketMap**</a> is accepted by IMWUT/UbiComp 2025!
++ 2025.08.23: Our paper <a href="#-GS-Share">**GS-Share**</a> is accepted by CGF 2025!
 + 2025.07.05: Our paper <a href="#-CalibWorkflow">**CalibWorkflow**</a> is accepted by ACMMM 2025!
 + 2025.04.11: Our paper <a href="#-STDArm">**STDArm**</a> is accepted by RSS 2025!
 + 2025.02.27: Our paper <a href="#-RaCFormer">**RaCFormer**</a> is accepted by CVPR 2025!
@@ -65,6 +67,43 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+
+<span class='anchor' id='-PocketMap'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IMWUT/UbiComp 2025</div><img src='images/paper/pocketmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- PocketMap: An Interaction-centric 3D Map Serving System for Spatial Understanding on Mobile Devices
+- Xinran Zhang, Wuyang Zhang, Hanqi Zhu, `Yifan Duan`, Jianmin Ji, Yanyong Zhang
+- Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
+
+   <a href="https://dl.acm.org/doi/10.1145/3770680" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="/file/pocketmap.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+<span class='anchor' id='-GS-Share'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">CGF 2025</div><img src='images/paper/GSShare.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- GS-Share: Enabling High-fidelity Map Sharing with Incremental Gaussian Splatting
+- Xinran Zhang, Hanqi Zhu, `Yifan Duan`, Yanyong Zhang
+- Computer Graphics Forum
+
+   <a href="https://doi.org/10.1111/cgf.70248" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="https://arxiv.org/abs/2510.02884" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/GS-Share.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
 
 <span class='anchor' id='-CalibWorkflow'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/CalibWorkflow.png' alt="sym" width="100%"></div></div>
