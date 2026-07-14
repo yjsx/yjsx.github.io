@@ -93,6 +93,26 @@ My research interests include:
 
 # Publications
 
+<span class='anchor' id='-DynaHMRC'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">arXiv 2026</div><img src='images/paper/dynahmrc.png' alt="DynaHMRC decentralized multi-robot collaboration framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- DynaHMRC: Decentralized Heterogeneous Multi-Robot Collaboration for Dynamic Tasks with Large Language Models
+- Wenhao Yu, Yu'ang Xie, `Yifan Duan`, Jie Peng, Guanting Ye, Ka-Veng Yuen, Yanyong Zhang, Jianmin Ji
+- arXiv preprint arXiv:2606.14882, 2026
+
+   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eky7QqwAAAAJ&sortby=pubdate&citation_for_view=eky7QqwAAAAJ:hMod-77fHWUC" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="https://arxiv.org/abs/2606.14882" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/dynahmrc.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
 <span class='anchor' id='-DBPO'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM 2026</div><img src='images/paper/dbpo.png' alt="Drift-Based Policy method comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -267,6 +287,26 @@ My research interests include:
 </div>
 </div>
 
+
+<span class='anchor' id='-lidar-calibration'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">arXiv 2024</div><img src='images/paper/lidar-calibration.png' alt="Universal LiDAR calibration pipeline" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Rotation Initialization and Stepwise Refinement for Universal LiDAR Calibration
+- `Yifan Duan`, Xinran Zhang, Guoliang You, Yilong Wu, Xingchen Li, Yao Li, Xiaomeng Chu, Jie Peng, Yu Zhang, Jianmin Ji, Yanyong Zhang
+- arXiv preprint arXiv:2405.05589, 2024
+
+   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eky7QqwAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=eky7QqwAAAAJ:8k81kl-MbHgC" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="https://arxiv.org/abs/2405.05589" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/lidar-calibration.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
 
 <span class='anchor' id='-php'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L</div><img src='images/paper/php.png' alt="sym" width="100%"></div></div>

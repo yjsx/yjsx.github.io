@@ -3,6 +3,9 @@ domains:
     title: Embodied Intelligence
     subtitle: End-to-end policy learning, manipulation, and embodied agents
     groups:
+      - title: Embodied Agents
+        papers:
+          - { title: DynaHMRC, venue: arXiv 2026, anchor: DynaHMRC }
       - title: VLA & Manipulation
         papers:
           - { title: STDArm, venue: RSS 2025, anchor: STDArm, featured: true }
@@ -47,6 +50,7 @@ domains:
       - title: Calibration
         papers:
           - { title: CalibWorkflow, venue: ACMMM 2025, anchor: CalibWorkflow }
+          - { title: Universal LiDAR Calibration, venue: arXiv 2024, anchor: lidar-calibration }
           - { title: EdgeCalib, venue: RA-L 2024, anchor: edgecalib }
       - title: Navigation & Planning
         papers:

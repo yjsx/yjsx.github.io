@@ -1,0 +1,6 @@
+@article{yu2026dynahmrc,
+  title={DynaHMRC: Decentralized Heterogeneous Multi-Robot Collaboration for Dynamic Tasks with Large Language Models},
+  author={Yu, Wenhao and Xie, Yu'ang and Duan, Yifan and Peng, Jie and Ye, Guanting and Yuen, Ka-Veng and Zhang, Yanyong and Ji, Jianmin},
+  journal={arXiv preprint arXiv:2606.14882},
+  year={2026}
+}
