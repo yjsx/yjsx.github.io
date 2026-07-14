@@ -129,3 +129,195 @@ h1:before, .anchor:before {
     background-color: #bf3321;
     font-size: .8em;
 }
+
+.research-overview {
+    margin: 1.5rem 0 2.5rem;
+    border-top: 1px solid #dfe5e7;
+}
+
+.research-domain {
+    --domain-accent: #3e6f92;
+    border-bottom: 1px solid #dfe5e7;
+
+    summary {
+        display: grid;
+        grid-template-columns: 2.5rem minmax(0, 1fr) 1.5rem;
+        gap: .8rem;
+        align-items: center;
+        padding: 1.2rem .25rem;
+        color: #263940;
+        cursor: pointer;
+        list-style: none;
+    }
+
+    summary::-webkit-details-marker {
+        display: none;
+    }
+
+    summary:hover .research-domain__heading strong,
+    summary:focus-visible .research-domain__heading strong {
+        color: var(--domain-accent);
+    }
+
+    &[open] {
+        padding-bottom: 1.2rem;
+    }
+
+    &[open] .research-domain__toggle::before {
+        content: "−";
+    }
+
+    &__index {
+        color: var(--domain-accent);
+        font-size: .76rem;
+        font-weight: 500;
+    }
+
+    &__heading {
+        display: grid;
+        gap: .15rem;
+        min-width: 0;
+
+        strong {
+            font-size: 1.15rem;
+            font-weight: 500;
+            transition: color .16s ease;
+        }
+
+        span {
+            color: #69767b;
+            font-size: .78rem;
+        }
+    }
+
+    &__toggle::before {
+        content: "+";
+        display: block;
+        color: var(--domain-accent);
+        font-size: 1.25rem;
+        text-align: center;
+    }
+
+    &__content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+        gap: 1.25rem 1.5rem;
+        padding: .2rem .25rem .25rem 3.55rem;
+    }
+
+    &--driving { --domain-accent: #356f9b; }
+    &--reconstruction { --domain-accent: #4f7c57; }
+    &--embodied { --domain-accent: #9a5264; }
+}
+
+.research-group {
+    min-width: 0;
+    padding-left: .8rem;
+    border-left: 2px solid var(--domain-accent);
+
+    h3 {
+        margin: 0 0 .55rem;
+        color: #405057;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+        font-size: .78rem;
+        font-weight: 500;
+        letter-spacing: 0;
+        text-transform: uppercase;
+    }
+
+    &__papers {
+        display: grid;
+        gap: .12rem;
+    }
+}
+
+.research-paper {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: .65rem;
+    align-items: baseline;
+    min-width: 0;
+    padding: .34rem .15rem;
+    color: #33464d;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+        color: var(--domain-accent);
+        text-decoration: underline;
+        text-underline-offset: 3px;
+    }
+
+    strong {
+        min-width: 0;
+        font-size: .82rem;
+        font-weight: 400;
+        overflow-wrap: anywhere;
+    }
+
+    span {
+        color: #748086;
+        font-size: .68rem;
+        white-space: nowrap;
+    }
+
+    &--featured {
+        strong {
+            color: var(--domain-accent);
+            font-weight: 500;
+        }
+
+        strong::before {
+            content: "•";
+            margin-right: .3rem;
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    .research-domain {
+        summary {
+            grid-template-columns: 1.75rem minmax(0, 1fr) 1.25rem;
+            gap: .55rem;
+        }
+
+        &__content {
+            grid-template-columns: 1fr;
+            padding-left: 2.55rem;
+        }
+    }
+}
+
+.site-footer-stats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+    min-height: 160px;
+    margin-top: 1.5rem;
+
+    &__ustc {
+        width: 140px;
+        height: auto;
+    }
+
+    &__counter {
+        display: inline-flex;
+        align-items: center;
+        min-height: 24px;
+
+        img {
+            display: block;
+            height: 24px;
+            width: auto;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .site-footer-stats {
+        flex-direction: column;
+        gap: .8rem;
+        padding: 1rem 0;
+    }
+}

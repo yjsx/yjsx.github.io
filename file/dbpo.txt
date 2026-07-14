@@ -1,0 +1,6 @@
+@inproceedings{duan2026dbpo,
+    title={Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control},
+    author={Gao, Yuxuan and Shen, Yedong and Zhang, Shiqi and Yu, Wenhao and Duan, Yifan and Pan, Jia and Wu, Jiajia and Deng, Jiajun and Zhang, Yanyong},
+    booktitle={ACM Multimedia 2026 (ACMMM)},
+    year={2026}
+}

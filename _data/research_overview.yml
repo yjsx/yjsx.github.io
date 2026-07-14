@@ -1,0 +1,56 @@
+domains:
+  - key: embodied
+    title: Embodied Intelligence
+    subtitle: End-to-end policy learning, manipulation, and embodied agents
+    groups:
+      - title: VLA & Manipulation
+        papers:
+          - { title: STDArm, venue: RSS 2025, anchor: STDArm, featured: true }
+          - { title: Drift-Based Policy Optimization, venue: ACMMM 2026, anchor: DBPO }
+
+  - key: reconstruction
+    title: 3D Reconstruction
+    subtitle: SLAM, Gaussian splatting, and spatial map systems
+    groups:
+      - title: SLAM & Mapping
+        papers:
+          - { title: CELLmap, venue: ICRA 2025, anchor: CELLmap, featured: true }
+          - { title: OCC-VO, venue: ICRA 2024, anchor: occvo }
+          - { title: ScanTrimmer, venue: ROBIO 2023, anchor: scantrimmer }
+          - { title: USTC FLICAR, venue: IJRR 2023, anchor: ustcfly }
+          - { title: PFilter, venue: IROS 2022, anchor: pfilter }
+      - title: 3D Gaussian Splatting
+        papers:
+          - { title: MM-Gaussian, venue: IROS 2024, anchor: MM-Gaussian, featured: true }
+          - { title: DynaLite-GS, venue: IROS 2026, anchor: DynaLite-GS }
+          - { title: OG-Gaussian, venue: ICRA 2025, anchor: OG-Gaussian }
+      - title: Map Systems & Sharing
+        papers:
+          - { title: PocketMap, venue: IMWUT/UbiComp 2025, anchor: PocketMap }
+          - { title: GS-Share, venue: CGF 2025, anchor: GS-Share }
+          - { title: MT-PCR, venue: ICRA 2025, anchor: MT-PCR }
+          - { title: Map++, venue: MobiCom 2024, anchor: Map }
+
+  - key: driving
+    title: Autonomous Driving
+    subtitle: Perception, localization, calibration, navigation, and planning
+    groups:
+      - title: Multi-modal Perception
+        papers:
+          - { title: RaCFormer, venue: CVPR 2025, anchor: RaCFormer }
+          - { title: RayFormer, venue: ACMMM 2024, anchor: rayformer }
+          - { title: FARFusion, venue: RA-L 2024, anchor: farfusion }
+      - title: Relocalization
+        papers:
+          - { title: CRPlace, venue: IROS 2024, anchor: CRPlace }
+          - { title: mmPlace, venue: RA-L 2024, anchor: mmplace }
+      - title: Calibration
+        papers:
+          - { title: CalibWorkflow, venue: ACMMM 2025, anchor: CalibWorkflow }
+          - { title: EdgeCalib, venue: RA-L 2024, anchor: edgecalib }
+      - title: Navigation & Planning
+        papers:
+          - { title: PHP, venue: RA-L 2024, anchor: php }
+          - { title: LDP, venue: IROS 2024, anchor: LDP }
+          - { title: P³O, venue: ICME 2023, anchor: p3o }
+          - { title: FastBKRRT, venue: ICRA 2021, anchor: fastbkrrt }

@@ -20,28 +20,53 @@ redirect_from:
 # About Me
 
 
-I am currently pursuing a PhD at the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)) under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 also from School of Computer Science and Technology at USTC.
+I am currently with LYNSENSE, working on embodied agents, including end-to-end manipulation policies for industrial applications and an embodied harness for performance optimization.
+
+I received my Ph.D. degree in March 2026 from the School of Computer Science and Technology, University of Science and Technology of China ([USTC](https://en.ustc.edu.cn/)), under the supervision of Prof. [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/). Prior to that, I received my B.E. degree in 2020 from the same school at USTC.
 
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
-My research interest includes:
-- LiDAR-based SLAM
-- Calibration
-- 3D GS and NeRF
-- Manipulation
+My research interests include:
+- High-precision, high-throughput end-to-end policies
+- Embodied agents
+- 3D reconstruction
+- Spatial intelligence
 
 <span class='anchor' id='-overview'></span>
 
 # Overview
 
-<div style="text-align: center; margin-top: 20px;">
-    <img src="/images/overview.drawio.png" alt="Overview Image" style="max-width: 100%; height: auto;">
+<div class="research-overview" aria-label="Research overview by topic">
+  {% for domain in site.data.research_overview.domains %}
+  <details class="research-domain research-domain--{{ domain.key }}" name="research-domain">
+    <summary>
+      <span class="research-domain__index">0{{ forloop.index }}</span>
+      <span class="research-domain__heading"><strong>{{ domain.title }}</strong><span>{{ domain.subtitle }}</span></span>
+      <span class="research-domain__toggle" aria-hidden="true"></span>
+    </summary>
+    <div class="research-domain__content">
+      {% for group in domain.groups %}
+      <section class="research-group">
+        <h3>{{ group.title }}</h3>
+        <div class="research-group__papers">
+          {% for paper in group.papers %}
+          <a class="research-paper{% if paper.featured %} research-paper--featured{% endif %}" href="#-{{ paper.anchor }}"><strong>{{ paper.title }}</strong><span>{{ paper.venue }}</span></a>
+          {% endfor %}
+        </div>
+      </section>
+      {% endfor %}
+    </div>
+  </details>
+  {% endfor %}
 </div>
 
 
 <span class='anchor' id='-news'></span>
 
 # News
++ 2026.07.11: Our paper <a href="#-DBPO">**Drift-Based Policy Optimization**</a> is accepted by ACMMM 2026!
++ 2026.06.17: Our paper <a href="#-DynaLite-GS">**DynaLite-GS**</a> is accepted by IROS 2026!
++ 2026.05.06: I joined LYNSENSE, working on embodied agents, including end-to-end manipulation policies for industrial applications and an embodied harness for performance optimization.
 + 2025.12.02: Our paper <a href="#-PocketMap">**PocketMap**</a> is accepted by IMWUT/UbiComp 2025!
 + 2025.08.23: Our paper <a href="#-GS-Share">**GS-Share**</a> is accepted by CGF 2025!
 + 2025.07.05: Our paper <a href="#-CalibWorkflow">**CalibWorkflow**</a> is accepted by ACMMM 2025!
@@ -67,6 +92,40 @@ My research interest includes:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+
+<span class='anchor' id='-DBPO'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM 2026</div><img src='images/paper/dbpo.png' alt="Drift-Based Policy method comparison" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Drift-Based Policy Optimization: Native One-Step Policy Learning for Online Robot Control
+- Yuxuan Gao, Yedong Shen, Shiqi Zhang, Wenhao Yu, `Yifan Duan`, Jia Pan, Jiajia Wu, Jiajun Deng, Yanyong Zhang
+- ACM MULTIMEDIA 2026 (ACMMM)
+
+   <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eky7QqwAAAAJ&sortby=pubdate&citation_for_view=eky7QqwAAAAJ:blknAaTinKkC" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    link
+</a>
+<a href="/file/dbpo.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
+<span class='anchor' id='-DynaLite-GS'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">IROS 2026</div><img src='images/paper/dynalite-gs.png' alt="DynaLite-GS system overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- DynaLite-GS: Lightweight Dynamic 3DGS-SLAM in Resource-Constrained Scenarios via Decoupled Masking and Stochastic Backtracking
+- Houzhi Zhou, Li Zhang, `Yifan Duan`, Yu-an Liu, Yujie Chen, Yingjie Wang, Conghao Huang, Yuqi Fan
+- 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+
+   <a href="/file/dynalite-gs.pdf" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    Paper
+</a>
+<a href="/file/dynalite-gs.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
 
 <span class='anchor' id='-PocketMap'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">IMWUT/UbiComp 2025</div><img src='images/paper/pocketmap.png' alt="sym" width="100%"></div></div>
@@ -106,7 +165,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-CalibWorkflow'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/CalibWorkflow.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM 2025</div><img src='images/paper/CalibWorkflow.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - CalibWorkflow: A General MLLM-Guided Workflow for Centimeter-Level Cross-Sensor Calibration
@@ -119,7 +178,7 @@ My research interest includes:
 
 
 <span class='anchor' id='-STDArm'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">RSS</div><img src='images/paper/STDArm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">RSS 2025</div><img src='images/paper/STDArm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - STDArm: Transfer Visuomotor Policy From Static Data Training to Dynamic Robot Manipulation
@@ -139,7 +198,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-RaCFormer'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">CVPR</div><img src='images/paper/racformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">CVPR 2025</div><img src='images/paper/racformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion
@@ -157,7 +216,7 @@ My research interest includes:
 
 
 <span class='anchor' id='-CELLmap'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/CELLmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA 2025</div><img src='images/paper/CELLmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation
@@ -178,7 +237,7 @@ My research interest includes:
 
 
 <span class='anchor' id='-MT-PCR'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/MT-PCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA 2025</div><img src='images/paper/MT-PCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap
@@ -192,7 +251,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-OG-Gaussian'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA</div><img src='images/paper/OG-Gaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ICRA 2025</div><img src='images/paper/OG-Gaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - OG-Gaussian: Occupancy Based Street Gaussians for Autonomous Driving  
@@ -246,7 +305,7 @@ My research interest includes:
 
 
 <span class='anchor' id='-rayformer'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM</div><img src='images/paper/rayformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ACMMM 2024</div><img src='images/paper/rayformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - RayFormer: Improving Query-Based Multi-Camera 3D Object Detection via Ray-Centric Strategies
@@ -389,7 +448,7 @@ My research interest includes:
 </div>
 
 <span class='anchor' id='-scantrimmer'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ROBIO 2022</div><img src='images/paper/scantrimmer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">ROBIO 2023</div><img src='images/paper/scantrimmer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - ScanTrimmer: an Online Dynamic Objects Removal Framework in Laser Scan for Robust Localization
@@ -514,20 +573,9 @@ My research interest includes:
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
 
 
-<!-- <div style="display: flex;justify-content: center; align-items: center;height: 200px;">
-    <div style="flex: 1;">
-        <img style="width: 200px; height: 200px;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
-    </div>
-    <div style="flex: 1; width: 300px; height: 200px;">
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
-    </div>
-</div> -->
-
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; margin: 0; padding: 0;">
-    <div style="flex: 0 1 200px; margin-right: 20px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 200px -->
-        <img style="width: 100%; height: auto;" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
-    </div>
-    <div style="flex: 0 1 300px;"> <!-- Adjusted flex-grow to 0 and flex-basis to 300px -->
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BCzXnllK7DALNmWsuEPPoh2DRAH282QR2m3XPzLQJkg&cl=ffffff&w=a"></script>
-    </div>
+<div class="site-footer-stats">
+    <img class="site-footer-stats__ustc" src="/images/ustcxhjpg/ustcblue.jpg" alt="USTC">
+    <a class="site-footer-stats__counter" href="https://hits.sh/yjsx.github.io/" aria-label="View website visitor statistics">
+        <img src="https://hits.sh/yjsx.github.io.svg?label=Visitors&color=4f6f7a" alt="Website visitor count">
+    </a>
 </div>

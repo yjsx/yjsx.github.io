@@ -1,0 +1,6 @@
+@inproceedings{zhou2026dynalitegs,
+    title={DynaLite-GS: Lightweight Dynamic 3DGS-SLAM in Resource-Constrained Scenarios via Decoupled Masking and Stochastic Backtracking},
+    author={Zhou, Houzhi and Zhang, Li and Duan, Yifan and Liu, Yu-an and Chen, Yujie and Wang, Yingjie and Huang, Conghao and Fan, Yuqi},
+    booktitle={2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    year={2026}
+}
