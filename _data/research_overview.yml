@@ -5,7 +5,7 @@ domains:
     groups:
       - title: Embodied Agents
         papers:
-          - { title: DynaHMRC, venue: arXiv 2026, anchor: DynaHMRC }
+          - { title: DynaHMRC, venue: T-RO 2026, anchor: DynaHMRC }
       - title: VLA & Manipulation
         papers:
           - { title: STDArm, venue: RSS 2025, anchor: STDArm, featured: true }

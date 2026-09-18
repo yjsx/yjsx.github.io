@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Yifan Duan"
 description              : "Building a future where everyone has their own physical workforce."
+url                      : "https://yjsx.github.io"
 repository               : "yjsx/yjsx.github.io"
 google_scholar_stats_use_cdn : false
 

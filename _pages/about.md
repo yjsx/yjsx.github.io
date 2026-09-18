@@ -64,6 +64,7 @@ My research interests include:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2026.08.22: Our paper <a href="#-DynaHMRC">**DynaHMRC**</a> is accepted by IEEE Transactions on Robotics (T-RO)!
 + 2026.07.11: Our paper <a href="#-DBPO">**Drift-Based Policy Optimization**</a> is accepted by ACMMM 2026!
 + 2026.06.17: Our paper <a href="#-DynaLite-GS">**DynaLite-GS**</a> is accepted by IROS 2026!
 + 2026.05.06: I joined LYNSENSE, working on embodied agents, including end-to-end manipulation policies for industrial applications and an embodied harness for performance optimization.
@@ -94,12 +95,12 @@ My research interests include:
 # Publications
 
 <span class='anchor' id='-DynaHMRC'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">arXiv 2026</div><img src='images/paper/dynahmrc.png' alt="DynaHMRC decentralized multi-robot collaboration framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">T-RO 2026</div><img src='images/paper/dynahmrc.png' alt="DynaHMRC decentralized multi-robot collaboration framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - DynaHMRC: Decentralized Heterogeneous Multi-Robot Collaboration for Dynamic Tasks with Large Language Models
 - Wenhao Yu, Yu'ang Xie, `Yifan Duan`, Jie Peng, Guanting Ye, Ka-Veng Yuen, Yanyong Zhang, Jianmin Ji
-- arXiv preprint arXiv:2606.14882, 2026
+- IEEE Transactions on Robotics (T-RO), 2026
 
    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=eky7QqwAAAAJ&sortby=pubdate&citation_for_view=eky7QqwAAAAJ:hMod-77fHWUC" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
     link
