@@ -1,0 +1,7 @@
+@inproceedings{li2026favla,
+    title={{FAVLA}: A Force-Adaptive Fast-Slow {VLA} model for Contact-Rich Robotic Manipulation},
+    author={Li, Yao and Tang, Peiyuan and Zhang, Wuyang and Zhu, Chengyang and Duan, Yifan and Shi, Weikai and Zhang, Xiaodong and Yang, Zijiang and Ji, Jianmin and Zhang, Yanyong},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2026},
+    url={https://arxiv.org/abs/2602.23648}
+}

@@ -8,6 +8,7 @@ domains:
           - { title: DynaHMRC, venue: T-RO 2026, anchor: DynaHMRC }
       - title: VLA & Manipulation
         papers:
+          - { title: FAVLA, venue: NeurIPS 2026, anchor: FAVLA }
           - { title: STDArm, venue: RSS 2025, anchor: STDArm, featured: true }
           - { title: Drift-Based Policy Optimization, venue: ACMMM 2026, anchor: DBPO }
 

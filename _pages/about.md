@@ -64,6 +64,7 @@ My research interests include:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2026.09.29: Our paper <a href="#-FAVLA">**FAVLA**</a> is accepted by NeurIPS 2026!
 + 2026.08.22: Our paper <a href="#-DynaHMRC">**DynaHMRC**</a> is accepted by IEEE Transactions on Robotics (T-RO)!
 + 2026.07.11: Our paper <a href="#-DBPO">**Drift-Based Policy Optimization**</a> is accepted by ACMMM 2026!
 + 2026.06.17: Our paper <a href="#-DynaLite-GS">**DynaLite-GS**</a> is accepted by IROS 2026!
@@ -94,8 +95,25 @@ My research interests include:
 
 # Publications
 
+<span class='anchor' id='-FAVLA'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="conference">NeurIPS 2026</div><img src='images/paper/favla.png' alt="FAVLA force-adaptive fast-slow vision-language-action model architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- FAVLA: A Force-Adaptive Fast-Slow VLA model for Contact-Rich Robotic Manipulation
+- Yao Li, Peiyuan Tang, Wuyang Zhang, Chengyang Zhu, `Yifan Duan`, Weikai Shi, Xiaodong Zhang, Zijiang Yang, Jianmin Ji, Yanyong Zhang
+- Advances in Neural Information Processing Systems (NeurIPS), 2026
+
+   <a href="https://arxiv.org/abs/2602.23648" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    arxiv
+</a>
+<a href="/file/favla.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+</div>
+</div>
+
 <span class='anchor' id='-DynaHMRC'></span>
-<div class='paper-box'><div class='paper-box-image'><div><div class="conference">T-RO 2026</div><img src='images/paper/dynahmrc.png' alt="DynaHMRC decentralized multi-robot collaboration framework" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">T-RO 2026</div><img src='images/paper/dynahmrc.png' alt="DynaHMRC decentralized multi-robot collaboration framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - DynaHMRC: Decentralized Heterogeneous Multi-Robot Collaboration for Dynamic Tasks with Large Language Models
