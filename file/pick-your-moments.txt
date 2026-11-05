@@ -1,0 +1,7 @@
+@article{shi2026pickyourmoments,
+    title={Pick Your Moments: Motion-Aware Speed Adaptation for Fast {VLA} Execution},
+    author={Shi, Weikai and Duan, Yifan and Li, Heng and Xiao, Yuxuan and Shao, Shuai and He, MengYing and Li, Yao and Zhang, Wuyang and Ji, Jianmin and Zhang, Yanyong},
+    journal={IEEE Robotics and Automation Letters},
+    year={2026},
+    note={Accepted. Weikai Shi and Yifan Duan contributed equally.}
+}

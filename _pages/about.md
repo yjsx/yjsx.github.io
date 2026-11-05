@@ -64,6 +64,7 @@ My research interests include:
 <span class='anchor' id='-news'></span>
 
 # News
++ 2026.10.29: Our paper <a href="#-Pick-Your-Moments">**Pick Your Moments**</a> is accepted by IEEE Robotics and Automation Letters (RA-L)!
 + 2026.09.29: Our paper <a href="#-FAVLA">**FAVLA**</a> is accepted by NeurIPS 2026!
 + 2026.08.22: Our paper <a href="#-DynaHMRC">**DynaHMRC**</a> is accepted by IEEE Transactions on Robotics (T-RO)!
 + 2026.07.11: Our paper <a href="#-DBPO">**Drift-Based Policy Optimization**</a> is accepted by ACMMM 2026!
@@ -94,6 +95,23 @@ My research interests include:
 <span class='anchor' id='-publications'></span>
 
 # Publications
+
+<span class='anchor' id='-Pick-Your-Moments'></span>
+<div class='paper-box'><div class='paper-box-image'><div><div class="journal">RA-L 2026</div><img src='images/paper/pick-your-moments.png' alt="Pick Your Moments motion-aware VLA execution framework with optical-flow cues, action retiming, and boundary smoothing" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Pick Your Moments: Motion-Aware Speed Adaptation for Fast VLA Execution
+- Weikai Shi\*, `Yifan Duan*`, Heng Li, Yuxuan Xiao, Shuai Shao, MengYing He, Yao Li, Wuyang Zhang, Jianmin Ji, Yanyong Zhang
+- IEEE Robotics and Automation Letters (RA-L), 2026 (accepted)
+
+<small>* Equal contribution.</small>
+
+<a href="/file/pick-your-moments.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+    BibTeX
+</a>
+
+</div>
+</div>
 
 <span class='anchor' id='-FAVLA'></span>
 <div class='paper-box'><div class='paper-box-image'><div><div class="conference">NeurIPS 2026</div><img src='images/paper/favla.png' alt="FAVLA force-adaptive fast-slow vision-language-action model architecture" width="100%"></div></div>
