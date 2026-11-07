@@ -104,11 +104,11 @@ My research interests include:
 - Weikai Shi\*, `Yifan Duan*`, Heng Li, Yuxuan Xiao, Shuai Shao, MengYing He, Yao Li, Wuyang Zhang, Jianmin Ji, Yanyong Zhang
 - IEEE Robotics and Automation Letters (RA-L), 2026 (accepted)
 
-<small>* Equal contribution.</small>
+    <small>* Equal contribution.</small>
 
-<a href="/file/pick-your-moments.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
-    BibTeX
-</a>
+    <a href="/file/pick-your-moments.txt" style="display: inline-block; background-color: #ffffff; border-radius: 10px; padding: 3px 6px; text-decoration: none; color: black;border: 2px solid #222222;">
+        BibTeX
+    </a>
 
 </div>
 </div>
